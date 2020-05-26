@@ -6,15 +6,11 @@
 
 服务器地址
 
-```
-mc.saint-aoligei.ml:41477
-```
+[mc.saint-aoligei.ml:41477](join?id=join-game)
 
 服务器地图
 
-```
-mc.saint-aoligei.ml:11477
-```
+[mc.saint-aoligei.ml:11477](http://mc.saint-aoligei.ml:11477/)
 
 [进入手册](?id=welcome)
 
