@@ -1,3 +1,9 @@
 # 常用指令
 
-这里将列出服务器常用的指令
+本服务器使用了 [Essentials](command?id=Essentials)、[Residence](command?id=Residence)、[ChestShop](command?id=ChestShop)
+
+## Essentials
+
+## Residence
+
+## ChestShop
