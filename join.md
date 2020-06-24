@@ -1,10 +1,10 @@
 # 加入游戏
 
-## 说在前面
+## 前言
 
 我们使用了第三方登录服务实现验证，即**不需要正版登录**就可以游玩，但是：
 
-!> 请确保你拥有**正版**的我的世界 Java 版本
+!> 请确保你拥有**正版**的 Minecraft Java
 
 对于这篇教程的时效性：
 
@@ -18,13 +18,19 @@
 
 也可以使用 [ZuluFX](https://www.azul.com/downloads/zulu-community/)
 
-## 再准备帐号
+## 准备第三方帐号
 
-请前往 [Blessing Skin Demo](https://skin.prinzeugen.net/) 注册帐号
+请前往 [Little Skin](https://littlesk.in/) 注册帐号
 
-## 然后配置启动器
+## 配置启动器
 
-正如前面所说，由于我们使用第三方登录服务，就需要启动器支持自定义 [Yggdrasil API](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-服务端技术规范) 服务器：
+请在注册后请于 [Little Skin 用户主页](https://littlesk.in/user) 按照「快速配置启动器」内指示配置
+
+或者
+
+参考 [Little Skin 相关文档](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用)，请注意替换相应API网址
+
+<!-- 注意：正如前面所说，由于我们使用第三方登录服务，就需要启动器支持自定义 [Yggdrasil API](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-服务端技术规范) 服务器：
 
 这里我们推荐使用 [HMCL](https://hmcl.huangyuhui.net/) 或者 [BakaXL](https://www.bakaxl.com/)
 
@@ -32,7 +38,7 @@
 
 - HMCL 3.3.170 做启动器
 - Minecraft 1.15.2 选为游戏版本
-- [Blessing Skin Demo](https://skin.prinzeugen.net/) 为认证服务器
+- [Little Skin](https://littlesk.in/) 为认证服务器
 
 进行配置：
 
@@ -64,13 +70,14 @@
    ![](_media/launcher-conf/15.png)
 
 6. 点击启动游戏
-   ![](_media/launcher-conf/16.png)
+   ![](_media/launcher-conf/16.png) -->
 
-## 直到加入游戏 :id=join-game
+## 加入游戏 :id=join-game
 
-上一节最后会将游戏启动（如果一切配置无恙），这里将讲述如何加入我们的服务器
+<!-- 上一节最后会将游戏启动（如果一切配置无恙）， -->
+这里将讲述如何加入我们的服务器
 
-1. 在主界面选择「多人游戏」（示例中已经进行了[语言调整](faq?id=调整游戏语言)）
+1. 启动游戏后在主界面选择「多人游戏」（示例中已经进行了[语言调整](faq?id=调整游戏语言)）
 ![](_media/game-server-conf/1.png)
 ![](_media/game-server-conf/2.png)
 3. 填入*服务器地址*，服务器名称不要求一致，可自定义

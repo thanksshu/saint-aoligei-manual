@@ -14,4 +14,4 @@
 
 [进入手册](?id=welcome)
 
-![](_media/bg.png)
+<!-- ![](_media/bg.png) -->
