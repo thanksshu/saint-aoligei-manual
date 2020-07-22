@@ -8,7 +8,7 @@
 
 关于于这篇教程的时效性：
 
-!> 如果日后有认证服务、游戏版本、启动器版本、JAVA版本方面的变动，不保证能随时更新此段示例，请**自行努力**，如果有较为严重的问题再请[联系我们](contact)
+!> 如果日后有认证服务、游戏版本、启动器版本、JAVA 版本方面的变动，不保证能随时更新此段示例，请**自行努力**，如果有较为严重的问题再请[联系我们](contact)
 
 ## 先从 JAVA 开始
 
@@ -28,7 +28,7 @@
 
 或者
 
-参考 [Little Skin 相关文档](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用)，请注意替换相应API网址
+参考 [Little Skin 相关文档](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用)，请注意替换相应 API 网址
 
 <!-- 注意：正如前面所说，由于我们使用第三方登录服务，就需要启动器支持自定义 [Yggdrasil API](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-服务端技术规范) 服务器：
 
@@ -59,6 +59,7 @@
 
 4. 填入在 [Blessing Skin Demo](https://skin.prinzeugen.net/) 注册的用户名密码并确定
    ![](_media/launcher-conf/9.png)
+-->
 
 5. 安装 1.15.2 版本
    ![](_media/launcher-conf/10.png)
@@ -74,13 +75,14 @@
 
 ## 加入游戏 :id=join-game
 
-<!-- 上一节最后会将游戏启动（如果一切配置无恙）， -->
+上一节最后会将游戏启动（如果一切配置无恙），
+
 这里将讲述如何加入我们的服务器
 
 1. 启动游戏后在主界面选择「多人游戏」（示例中已经进行了[语言调整](faq?id=调整游戏语言)）
-![](_media/game-server-conf/1.png)
-![](_media/game-server-conf/2.png)
-3. 填入*服务器地址*，服务器名称不要求一致，可自定义
-![](_media/game-server-conf/3.png)
-4. 双击服务器以加入游戏
-![](_media/game-server-conf/4.png)
+   ![](_media/game-server-conf/1.png)
+   ![](_media/game-server-conf/2.png)
+2. 填入*服务器地址*，服务器名称不要求一致，可自定义
+   ![](_media/game-server-conf/3.png)
+3. 双击服务器以加入游戏
+   ![](_media/game-server-conf/4.png)
