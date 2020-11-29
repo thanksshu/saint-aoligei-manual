@@ -2,21 +2,22 @@
 
 ## 前言
 
-我们使用了第三方登录服务实现验证，即**不需要正版登录**就可以游玩，但是：
+我们使用了第三方登录服务实现验证，即**不要求正版登录**就可以游玩，但是：
 
-!> 请确保你拥有**正版**的 Minecraft Java
+!> 请确保你拥有**正版**的 Minecraft Java Edition
+!> 不要求正版登录仅仅是为了给玩家提供方便，并不代表我们认可盗版游戏
 
 关于于这篇教程的时效性：
 
-!> 如果日后有认证服务、游戏版本、启动器版本、JAVA 版本方面的变动，不保证能随时更新此段示例，请**自行努力**，如果有较为严重的问题再请[联系我们](contact)
+!> 如果日后有认证服务、游戏版本、启动器版本、JAVA 版本方面的变动，不保证能随时更新此段教程（尤其是图片），请**自行努力**，如果有较为严重的问题再请[联系我们](contact)
 
 ## 先从 JAVA 开始
 
 众所周知，Minecraft 的运行需要 JAVA ——如果你确保拥有合适可用的 Java 版本，直接跳过这一节便是
 
-下载可以通过 [JAVA](https://www.java.com)
+可以使用 [Oracle Java](https://www.java.com)
 
-也可以使用 [ZuluFX](https://www.azul.com/downloads/zulu-community/)
+也可以使用 [BellSoft](https://bell-sw.com/pages/downloads/)
 
 ## 准备第三方帐号
 
@@ -30,9 +31,10 @@
 
 参考 [Little Skin 相关文档](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用)，请注意替换相应 API 网址
 
+!> 2020.11.29 HMCL 网站出现问题，下载转至(https://ci.huangyuhui.net/job/HMCL/)，选择`175`或者更高以下载
+
 <!-- 注意：正如前面所说，由于我们使用第三方登录服务，就需要启动器支持自定义 [Yggdrasil API](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-服务端技术规范) 服务器：
 
-这里我们推荐使用 [HMCL](https://hmcl.huangyuhui.net/) 或者 [BakaXL](https://www.bakaxl.com/)
 
 以下以
 
@@ -61,10 +63,12 @@
    ![](_media/launcher-conf/9.png)
 -->
 
-5. 安装 1.15.2 版本
+5. 安装 1.16.4 版本
    ![](_media/launcher-conf/10.png)
    ![](_media/launcher-conf/11.png)
-   我们可以更换源，这里使用了官方源：
+
+   如果下载遇到问题，可尝试更换源，这里便使用了官方源：
+
    ![](_media/launcher-conf/12.png)
    ![](_media/launcher-conf/13.png)
    ![](_media/launcher-conf/14.png)
