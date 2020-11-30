@@ -5,6 +5,7 @@
 我们使用了第三方登录服务实现验证，即**不要求正版登录**就可以游玩，但是：
 
 !> 请确保你拥有**正版**的 Minecraft Java Edition
+
 !> 不要求正版登录仅仅是为了给玩家提供方便，并不代表我们认可盗版游戏
 
 关于于这篇教程的时效性：
@@ -71,6 +72,9 @@
 
    ![](_media/launcher-conf/12.png)
    ![](_media/launcher-conf/13.png)
+
+   [Optifine](https://optifine.net/home) 可供选择，剩下尽力避免
+
    ![](_media/launcher-conf/14.png)
    ![](_media/launcher-conf/15.png)
 
