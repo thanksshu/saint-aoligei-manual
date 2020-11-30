@@ -32,7 +32,7 @@
 
 参考 [Little Skin 相关文档](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用)，请注意替换相应 API 网址
 
-!> 2020.11.29 HMCL 网站出现问题，下载转至(https://ci.huangyuhui.net/job/HMCL/)，选择`175`或者更高以下载
+!> 2020.11.29 HMCL 网站出现问题，下载转至[此处](https://ci.huangyuhui.net/job/HMCL/)
 
 <!-- 注意：正如前面所说，由于我们使用第三方登录服务，就需要启动器支持自定义 [Yggdrasil API](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-服务端技术规范) 服务器：
 
